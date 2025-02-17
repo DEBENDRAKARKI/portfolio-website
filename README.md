@@ -1,5 +1,5 @@
-#  user.name "debendra karki"
+DEBENDRA KARKI
 
 
 
-user.email "debendrakarki18@gmail.com"
+email "debendrakarki18@gmail.com"
